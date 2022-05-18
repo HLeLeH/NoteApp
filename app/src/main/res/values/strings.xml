@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="default_web_client_id_auth" >Your default_web_client_id here</string>
+    <string name="todo">TODO</string>
+</resources>
